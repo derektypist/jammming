@@ -4,7 +4,11 @@
 
 Welcome to Jammming.
 
-## Credites
+## Credits
+
+### Content
+
+CSS taken from Codecademy.
 
 ### Acknowledgements
 
