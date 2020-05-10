@@ -47,6 +47,10 @@ class App extends React.Component {
         this.setState({playlistTracks: tracks});
     }
 
+    removeTrack(track) {
+        
+    }
+
     render() {
         return (
     <div>
