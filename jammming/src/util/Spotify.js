@@ -1,3 +1,5 @@
+const clientID = "https://gitpod.io/#var=value/https://github.com/derektypist/jammming";
+const redirectURI = 'http://localhost:3000/';
 let accessToken;
 
 const Spotify = {
@@ -16,9 +18,16 @@ const Spotify = {
         window.setTimeout(() => accessToken = '', expiresIn * 1000);
         window.history.pushState('Access Token', null, '/');
         return accessToken;
+    } else {
+        const accessUrl = `https://accounts.spotify.com/authorize?client_id=${clientID}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectURI}`;
+        window.location = accessUrl;
     }
     
-}
+},
+
+    search(term) {
+        const accessToken = Spotify.getAccessToken();
+    }
 
     
 
