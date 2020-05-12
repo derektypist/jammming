@@ -8,6 +8,24 @@ Welcome to Jammming.  The purpose of this project is to build a React Web Applic
 
 As a user, I want to search the Spotify Library, Create a Custom Playlist and then save it to their Spotify Account.
 
+[Wireframes](wireframes/wireframe-jammming.png) are supplied.
+
+## Features
+
+Search, Playlists and Tracks.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript and React.
+
+## Testing
+
+Ensure that user stories have been met.
+
+## Deployment
+
+Deployed on GitHub Pages.
+
 ## Credits
 
 ### Content
