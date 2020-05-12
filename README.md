@@ -2,7 +2,11 @@
 
 # jammming
 
-Welcome to Jammming.
+Welcome to Jammming.  The purpose of this project is to build a React Web Application.
+
+## UX
+
+As a user, I want to search the Spotify Library, Create a Custom Playlist and then save it to their Spotify Account.
 
 ## Credits
 
