@@ -30,7 +30,7 @@ Deployed on GitHub Pages.
 
 ### Content
 
-CSS taken from Codecademy.
+CSS taken from Codecademy.  Wireframe - screenshot taken from [Codecademy](https://www.codecademy.com/paths/web-development/tracks/front-end-applications-with-react/modules/jammming/projects/jammming-prj)
 
 ### Acknowledgements
 
